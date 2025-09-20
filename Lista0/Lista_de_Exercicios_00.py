@@ -1,6 +1,6 @@
 import math
 import random
-from mat import impar,area_circulo,ano_bissexto,dias_mes,nome_mes,mdc,mmc
+from Lista0.mat import impar,area_circulo,ano_bissexto,dias_mes,nome_mes,mdc,mmc
 
 def quest1():
     A = int(input("Digite o valor de A:"))
